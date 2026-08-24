@@ -12,7 +12,6 @@ To write a program to find the LU Decomposition of a matrix.
 2.Import the necessary libraries(numpy,scipy.linalg) 
 3.Define the matrix using numpy 
 4.Use lu(),lu_solve(),lu_factor() to get the solutions 
-<img width="1892" height="925" alt="640262961-055e66f1-16cd-44dd-9076-744f98564d20" src="https://github.com/user-attachments/assets/39073915-6694-4da3-80f5-b9b8396014d2" />
 5.End the program. 
 
 ## Program:
